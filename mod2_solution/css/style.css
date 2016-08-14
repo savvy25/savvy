@@ -130,17 +130,14 @@ p{
   .col-md-12 {
     width: 96%;
     margin: 2%;
-  }}
-
+  }
+}
   @media (max-width: 767px) {
   .col-sm-12 {
     float: left;
     border: 1px solid black;
-  }
-  
-  .col-sm-12 {
-    width: 96%;
+     width: 96%;
     margin: 2%;
-  }
-}
-
+    margin-bottom: 20px;
+  }}
+  
