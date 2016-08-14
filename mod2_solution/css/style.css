@@ -19,7 +19,7 @@ p{
 }
 .sb{
   border: 1px solid black;
-  width: 33%;
+  width: 100px;
   float: right;
   text-align: center;
 }
