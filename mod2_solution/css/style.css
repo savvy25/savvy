@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  color: black;
+}
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.col-lg-4{
+  border: 1px solid black;
+  background-color: grey;
+  font-family: Helvetica;
+  
+}
+p{
+  padding: 10px;
+  clear: right;
+}
+.sb{
+  border: 1px solid black;
+  width: 33%;
+  float: right;
+  text-align: center;
+}
+#sb-1{
+  background-color: pink;
+}
+#sb-2{
+  background-color: red;
+}
+#sb-3{
+  background-color: green;
+}
