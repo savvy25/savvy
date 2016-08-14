@@ -130,7 +130,7 @@ p{
   .col-md-12 {
     width: 96%;
     margin: 2%;
-  }
+  }}
 
   @media (max-width: 767px) {
   .col-sm-12 {
